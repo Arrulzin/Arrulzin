@@ -1,5 +1,6 @@
-## Hi there 👋
+## Raul Simões
 
+![Node.js](https://img.shields.io/badge/node.js-v16-green)
 <!--
 **Arrulzin/Arrulzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
