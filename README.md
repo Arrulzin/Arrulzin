@@ -2,7 +2,7 @@
 
 ``Desenvolvedor Front-end``
 
-<p align="justify">Me chamo <strong>Raul Simões Silva</strong>, possuo 18 anos sou nascido e criado em São Paulo. Conclui o ensino médio na escola Profª Carolina Cintra com técnico em Análise e Desenvolvimento de sistemas. Atualmente estou na graduação de ADS no Centro Universitário Italo Brasileiro. Gosto de transformar ideias em projetos práticos, sempre buscando aprender novas ferramentas e evoluir como desenvolvedor.</p>
+<p align="justify">Me chamo Raul Simões Silva, possuo 18 anos sou nascido e criado em São Paulo. Conclui o ensino médio na escola Profª Carolina Cintra com técnico em Análise e Desenvolvimento de sistemas. Atualmente estou na graduação de ADS no Centro Universitário Italo Brasileiro. Gosto de transformar ideias em projetos práticos, sempre buscando aprender novas ferramentas e evoluir como desenvolvedor.</p>
 
 ## Linguagens e Tecnologias
 ...
