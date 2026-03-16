@@ -5,7 +5,7 @@
 <p align="justify">Me chamo Raul Simões Silva, possuo 18 anos sou nascido e criado em São Paulo. Conclui o ensino médio na escola Profª Carolina Cintra com técnico em Análise e Desenvolvimento de sistemas. Atualmente estou na graduação de ADS no Centro Universitário Italo Brasileiro. Gosto de transformar ideias em projetos práticos, sempre buscando aprender novas ferramentas e evoluir como desenvolvedor.</p>
 
 ## Linguagens e Tecnologias
-![Alt text](https://www.flaticon.com/br/icone-gratis/html_1051277?term=html&page=1&position=3&origin=tag&related_id=1051277)
+...
 
 <!--
 **Arrulzin/Arrulzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
